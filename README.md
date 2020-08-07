@@ -1,4 +1,4 @@
-# M5-Forecasting---Accuracy
+# M5-Forecasting-Accuracy
 
 This project is to model the sales of the next 28 days for more than 30,000 products for Walmart.
 
